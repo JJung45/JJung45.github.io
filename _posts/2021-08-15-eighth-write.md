@@ -1,3 +1,13 @@
+---
+layout: post
+title: "엘라스틱서치 기본 개념"
+date: 2021-08-15 1:23:14
+image: '/assets/img/'
+description: 'elasticSearch'
+tags:
+- elasticSearch
+---
+
 ## ElasticSearch
 
 확장성이 뛰어난 오픈소스 풀텍스트 검색 및 분석 엔진. 일반적으로 복잡한 검색 기능 및 요구 사항이 있는 애플리케이션을 위한 기본엔진/기술로 사용.
