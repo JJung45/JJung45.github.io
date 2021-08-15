@@ -1,9 +1,9 @@
 ---
-layout: post<br>
-title: "자바의 정석"<br>
-date: 2021-08-11 10:36:00<br>
-image: '/assets/img/'<br>
-description: 'java'<br>
+layout: post
+title: "자바의 정석"
+date: 2021-08-11 10:36:00
+image: '/assets/img/'
+description: 'java'
 tags:
 - java
 - study
