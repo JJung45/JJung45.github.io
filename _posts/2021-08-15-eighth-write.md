@@ -6,6 +6,8 @@ image: '/assets/img/'
 description: 'elasticSearch'
 tags:
 - elasticSearch
+categories:
+- elasticSearch
 ---
 
 ## ElasticSearch

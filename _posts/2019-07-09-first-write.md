@@ -5,10 +5,7 @@ date: 2019-07-09 03:32:44
 image: '/assets/img/'
 description: '처음쓰는 글'
 tags:
-- first 
-- write 
 categories:
-- first write
 ---
 
 블로그를 만들고 처음쓰는 글이다.

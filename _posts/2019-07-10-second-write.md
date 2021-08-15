@@ -8,10 +8,11 @@ tags:
 - laravel
 - mysql
 categories:
-- second write
+- laravel
+- mysql
 ---
 
-저번주부터 라라벨 토이 프로젝트를 실행하기 위해 migrate 명령어를 돌리는데 
+저번주부터 라라벨 토이 프로젝트를 실행하기 위해 migrate 명령어를 돌리는데
 'The server requested authentication method unknown to the client (SQL: select * from information_schema.tables where table_schema = homestead and table_name = migrations and table_type = 'BASE TABLE')'
 라는 오류가 났다. 데이터베이스도 생성하고 database.php 에
 

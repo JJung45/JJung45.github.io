@@ -5,10 +5,11 @@ date: 2019-07-12 12:40:43
 image: '/assets/img/'
 description: 'company'
 tags:
-- last
 - php
+- mysql
 categories:
-- fourth write
+- php
+- mysql
 ---
 
 오늘 회사에서 데이터를 A라는 데이터베이스 A-1테이블에서 B라는 데이터베이스 B-1테이블로 옮겨야하는 경우가 생겼다.
@@ -21,7 +22,7 @@ categories:
 생각해보면 간단한 건데 insert 한 후 insert한 idx값들을 가지고 바로 그 idx값을 지워야 한다고만 생각했다...
 
 ````
-결론: 
+결론:
 
 insert into A-1(code, coupon_idx, expiry_date, entry_date) select code, 2, '2020-08-31', now() from B-1 where user_id is null order by id desc limit 500;
 

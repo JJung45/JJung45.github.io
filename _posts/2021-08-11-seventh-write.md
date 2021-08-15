@@ -7,6 +7,9 @@ description: 'java'
 tags:
 - java
 - study
+categories:
+- java
+- study
 ---
 
 # **자바의 정석 Chapter6**

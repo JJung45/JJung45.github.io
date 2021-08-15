@@ -5,10 +5,11 @@ date: 2019-07-11 12:40:43
 image: '/assets/img/'
 description: 'laravel with mysql'
 tags:
-- last
 - php
+- phpstorm
 categories:
-- third write
+- php
+- phpstorm
 ---
 
 최근에 phpstorm을 쓰게 되면서 라라캐스트의 tooling 강의를 보고 있다.

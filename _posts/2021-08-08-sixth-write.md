@@ -6,6 +6,8 @@ image: '/assets/img/'
 description: 'server'
 tags:
 - ssh
+categories:
+- ssh
 ---
 <br>
 아... 드디어 다시 돌아왔다^^... 이직을 하고 돌아왔다~!!
