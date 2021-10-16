@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "4번째로 쓰는 글"
+title: "데이터베이스 테이블 옮기기"
 date: 2019-07-12 12:40:43
 image: '/assets/img/'
 description: 'company'
