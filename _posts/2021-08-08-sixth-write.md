@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "6번째로 쓰는 글"
+title: "ssh"
 date: 2021-08-08 9:36:00
 image: '/assets/img/'
 description: 'server'
