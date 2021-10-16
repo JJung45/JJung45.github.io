@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "2번째로 쓰는 글"
+title: "migration 오류"
 date: 2019-07-10 11:40:43
 image: '/assets/img/'
 description: 'laravel with mysql'
