@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "5번째로 쓰는 글"
+title: "대용량 데이터를 DB에 직접 밀어넣기"
 date: 2019-12-05 1:23:14
 image: '/assets/img/'
 description: 'company'
